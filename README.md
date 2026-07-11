@@ -353,29 +353,29 @@ Worked in an industrial Quality Assurance and Quality Control environment before
 
 ---
 
+
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vasavapankaj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
+<img width="49%" src="https://raw.githubusercontent.com/vasavapankaj/vasavapankaj/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" alt="Profile Details"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=vasavapankaj&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<br/><br/>
 
-<br/>
+<img width="49%" src="https://raw.githubusercontent.com/vasavapankaj/vasavapankaj/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" alt="Repos Per Language"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasavapankaj&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+<img width="49%" src="https://raw.githubusercontent.com/vasavapankaj/vasavapankaj/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" alt="Most Commit Language"/>
 
-</div>
+<br/><br/>
 
----
+<img width="49%" src="https://raw.githubusercontent.com/vasavapankaj/vasavapankaj/main/profile-summary-card-output/midnight_purple/3-stats.svg" alt="GitHub Stats"/>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vasavapankaj&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="49%" src="https://raw.githubusercontent.com/vasavapankaj/vasavapankaj/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" alt="Productive Time"/>
 
 </div>
+
+
 
 ---
 
