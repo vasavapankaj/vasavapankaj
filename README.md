@@ -25,6 +25,9 @@
 <a href="https://github.com/vasavapankaj">
   <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://x.com/pankajvasava01">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -447,6 +450,10 @@ Open_To:
 
 <a href="https://pankajvasava.netlify.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://x.com/pankajvasava01">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
